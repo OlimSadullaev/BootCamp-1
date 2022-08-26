@@ -1,0 +1,15 @@
+C:\Users\user\Bootcamp\APIs\DonutCom\bin\Debug\net6.0\DonutCom.exe
+C:\Users\user\Bootcamp\APIs\DonutCom\bin\Debug\net6.0\DonutCom.deps.json
+C:\Users\user\Bootcamp\APIs\DonutCom\bin\Debug\net6.0\DonutCom.runtimeconfig.json
+C:\Users\user\Bootcamp\APIs\DonutCom\bin\Debug\net6.0\DonutCom.dll
+C:\Users\user\Bootcamp\APIs\DonutCom\bin\Debug\net6.0\DonutCom.pdb
+C:\Users\user\Bootcamp\APIs\DonutCom\obj\Debug\net6.0\DonutCom.csproj.AssemblyReference.cache
+C:\Users\user\Bootcamp\APIs\DonutCom\obj\Debug\net6.0\DonutCom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Bootcamp\APIs\DonutCom\obj\Debug\net6.0\DonutCom.AssemblyInfoInputs.cache
+C:\Users\user\Bootcamp\APIs\DonutCom\obj\Debug\net6.0\DonutCom.AssemblyInfo.cs
+C:\Users\user\Bootcamp\APIs\DonutCom\obj\Debug\net6.0\DonutCom.csproj.CoreCompileInputs.cache
+C:\Users\user\Bootcamp\APIs\DonutCom\obj\Debug\net6.0\DonutCom.dll
+C:\Users\user\Bootcamp\APIs\DonutCom\obj\Debug\net6.0\refint\DonutCom.dll
+C:\Users\user\Bootcamp\APIs\DonutCom\obj\Debug\net6.0\DonutCom.pdb
+C:\Users\user\Bootcamp\APIs\DonutCom\obj\Debug\net6.0\DonutCom.genruntimeconfig.cache
+C:\Users\user\Bootcamp\APIs\DonutCom\obj\Debug\net6.0\ref\DonutCom.dll

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "YcJKhFV6rB4NRWR3jnlqW4cdgTbM1EtIUWV9DbNAdIDpChRPHHp3r0nFbPCZurRjuqoeuvyntPc8rJZePy1PSg==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\user\\Bootcamp\\Csharp\\ojpropblems\\ojpropblems.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

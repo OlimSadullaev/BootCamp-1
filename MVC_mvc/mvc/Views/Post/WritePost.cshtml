@@ -1,0 +1,34 @@
+@model NewPostViewModel;
+
+<form asp-controller="Post" asp-action="WritePost" method="post">
+    <div class="row mb-4"> 
+        <label asp-for="Title"></label>
+        <input asp-for="Title"/>
+        <span asp-validation-for="Title" class="text-denger"></span>
+    </div>
+    <div class="row mb-3"> 
+            <label asp-for="Description"></label>
+            <input asp-for="Description"/>
+            <span asp-validation-for="Description" class="text-denger"></span>
+    </div>
+    <div class="row mb-3"> 
+            <label asp-for="Content"></label>
+            <input asp-for="Content"/>
+
+            <span asp-validation-for="Content" class="text-denger"></span>
+    </div>
+    <div class="row mb-3"> 
+            <label asp-for="Tags"></label>
+            <input asp-for="Tags"/> 
+            <span asp-validation-for="Tags" class="text-denger"></span>
+    </div>
+    <div class="row mb-3"> 
+            <label asp-for="HeaderImage"></label>
+            <input asp-for="HeaderImage" type="file" accept=".png, .jpeg, .jpg, .gif"/>
+            <span asp-validation-for="HeaderImage" class="text-denger"></span>
+
+    </div>
+
+    <button class="btn btn-primary" type="submit">Publish</button>
+</form>
+ 

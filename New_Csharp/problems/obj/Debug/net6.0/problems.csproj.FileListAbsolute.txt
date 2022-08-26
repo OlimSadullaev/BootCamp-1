@@ -1,0 +1,15 @@
+C:\Users\user\Bootcamp\New_Csharp\problems\bin\Debug\net6.0\problems.exe
+C:\Users\user\Bootcamp\New_Csharp\problems\bin\Debug\net6.0\problems.deps.json
+C:\Users\user\Bootcamp\New_Csharp\problems\bin\Debug\net6.0\problems.runtimeconfig.json
+C:\Users\user\Bootcamp\New_Csharp\problems\bin\Debug\net6.0\problems.dll
+C:\Users\user\Bootcamp\New_Csharp\problems\bin\Debug\net6.0\problems.pdb
+C:\Users\user\Bootcamp\New_Csharp\problems\obj\Debug\net6.0\problems.csproj.AssemblyReference.cache
+C:\Users\user\Bootcamp\New_Csharp\problems\obj\Debug\net6.0\problems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Bootcamp\New_Csharp\problems\obj\Debug\net6.0\problems.AssemblyInfoInputs.cache
+C:\Users\user\Bootcamp\New_Csharp\problems\obj\Debug\net6.0\problems.AssemblyInfo.cs
+C:\Users\user\Bootcamp\New_Csharp\problems\obj\Debug\net6.0\problems.csproj.CoreCompileInputs.cache
+C:\Users\user\Bootcamp\New_Csharp\problems\obj\Debug\net6.0\problems.dll
+C:\Users\user\Bootcamp\New_Csharp\problems\obj\Debug\net6.0\refint\problems.dll
+C:\Users\user\Bootcamp\New_Csharp\problems\obj\Debug\net6.0\problems.pdb
+C:\Users\user\Bootcamp\New_Csharp\problems\obj\Debug\net6.0\problems.genruntimeconfig.cache
+C:\Users\user\Bootcamp\New_Csharp\problems\obj\Debug\net6.0\ref\problems.dll

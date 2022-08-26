@@ -1,0 +1,60 @@
+{
+  "FilePath": "c:\\Users\\user\\Bootcamp\\MVC_mvc\\mvc\\mvc.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-3.0",
+    "LanguageVersion": "5.0",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-3.0"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 900
+  },
+  "RootNamespace": "mvc",
+  "Documents": [
+    {
+      "FilePath": "c:\\Users\\user\\Bootcamp\\MVC_mvc\\mvc\\Views\\Math\\SquareRoot.cshtml",
+      "TargetPath": "Views\\Math\\SquareRoot.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\user\\Bootcamp\\MVC_mvc\\mvc\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\user\\Bootcamp\\MVC_mvc\\mvc\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\user\\Bootcamp\\MVC_mvc\\mvc\\Views\\Shared\\Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\user\\Bootcamp\\MVC_mvc\\mvc\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\user\\Bootcamp\\MVC_mvc\\mvc\\Views\\Math\\Result.cshtml",
+      "TargetPath": "Views\\Math\\Result.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\user\\Bootcamp\\MVC_mvc\\mvc\\Views\\Post\\WritePost.cshtml",
+      "TargetPath": "Views\\Post\\WritePost.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\user\\Bootcamp\\MVC_mvc\\mvc\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
+  "SerializationFormat": "0.2"
+}

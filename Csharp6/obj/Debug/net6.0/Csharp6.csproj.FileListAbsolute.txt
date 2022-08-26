@@ -1,0 +1,15 @@
+C:\Users\user\Bootcamp\Csharp6\bin\Debug\net6.0\Csharp6.exe
+C:\Users\user\Bootcamp\Csharp6\bin\Debug\net6.0\Csharp6.deps.json
+C:\Users\user\Bootcamp\Csharp6\bin\Debug\net6.0\Csharp6.runtimeconfig.json
+C:\Users\user\Bootcamp\Csharp6\bin\Debug\net6.0\Csharp6.dll
+C:\Users\user\Bootcamp\Csharp6\bin\Debug\net6.0\Csharp6.pdb
+C:\Users\user\Bootcamp\Csharp6\obj\Debug\net6.0\Csharp6.csproj.AssemblyReference.cache
+C:\Users\user\Bootcamp\Csharp6\obj\Debug\net6.0\Csharp6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Bootcamp\Csharp6\obj\Debug\net6.0\Csharp6.AssemblyInfoInputs.cache
+C:\Users\user\Bootcamp\Csharp6\obj\Debug\net6.0\Csharp6.AssemblyInfo.cs
+C:\Users\user\Bootcamp\Csharp6\obj\Debug\net6.0\Csharp6.csproj.CoreCompileInputs.cache
+C:\Users\user\Bootcamp\Csharp6\obj\Debug\net6.0\Csharp6.dll
+C:\Users\user\Bootcamp\Csharp6\obj\Debug\net6.0\refint\Csharp6.dll
+C:\Users\user\Bootcamp\Csharp6\obj\Debug\net6.0\Csharp6.pdb
+C:\Users\user\Bootcamp\Csharp6\obj\Debug\net6.0\Csharp6.genruntimeconfig.cache
+C:\Users\user\Bootcamp\Csharp6\obj\Debug\net6.0\ref\Csharp6.dll

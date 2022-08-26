@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "ONXLyW17H06iVIunKQ01RQlCI+Z8DK+WfFJfX+s90J8=",
+  "Source": "RestaurantWebsite",
+  "BasePath": "_content/RestaurantWebsite",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "RestaurantWebsite\\wwwroot",
+      "Source": "RestaurantWebsite",
+      "ContentRoot": "C:\\Users\\user\\Bootcamp\\APIs\\RestaurantWebsite\\wwwroot\\",
+      "BasePath": "_content/RestaurantWebsite",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

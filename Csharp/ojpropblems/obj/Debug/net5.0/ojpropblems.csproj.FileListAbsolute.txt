@@ -1,0 +1,16 @@
+C:\Users\user\Bootcamp\Csharp\ojpropblems\bin\Debug\net5.0\ojpropblems.exe
+C:\Users\user\Bootcamp\Csharp\ojpropblems\bin\Debug\net5.0\ojpropblems.deps.json
+C:\Users\user\Bootcamp\Csharp\ojpropblems\bin\Debug\net5.0\ojpropblems.runtimeconfig.json
+C:\Users\user\Bootcamp\Csharp\ojpropblems\bin\Debug\net5.0\ojpropblems.runtimeconfig.dev.json
+C:\Users\user\Bootcamp\Csharp\ojpropblems\bin\Debug\net5.0\ojpropblems.dll
+C:\Users\user\Bootcamp\Csharp\ojpropblems\bin\Debug\net5.0\ojpropblems.pdb
+C:\Users\user\Bootcamp\Csharp\ojpropblems\obj\Debug\net5.0\ojpropblems.csproj.AssemblyReference.cache
+C:\Users\user\Bootcamp\Csharp\ojpropblems\obj\Debug\net5.0\ojpropblems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Bootcamp\Csharp\ojpropblems\obj\Debug\net5.0\ojpropblems.AssemblyInfoInputs.cache
+C:\Users\user\Bootcamp\Csharp\ojpropblems\obj\Debug\net5.0\ojpropblems.AssemblyInfo.cs
+C:\Users\user\Bootcamp\Csharp\ojpropblems\obj\Debug\net5.0\ojpropblems.csproj.CoreCompileInputs.cache
+C:\Users\user\Bootcamp\Csharp\ojpropblems\obj\Debug\net5.0\ojpropblems.dll
+C:\Users\user\Bootcamp\Csharp\ojpropblems\obj\Debug\net5.0\ref\ojpropblems.dll
+C:\Users\user\Bootcamp\Csharp\ojpropblems\obj\Debug\net5.0\ojpropblems.pdb
+C:\Users\user\Bootcamp\Csharp\ojpropblems\obj\Debug\net5.0\ojpropblems.genruntimeconfig.cache
+C:\Users\user\Bootcamp\Csharp\ojpropblems\obj\Debug\net5.0\refint\ojpropblems.dll
